@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]-->
-<h1 align="center"> Hi 👋, I'm Yash</h1>
+<h1 align="center"> Hey There👋, I'm Yash Zanwar</h1>
 <h5>I am a student, currently studying at Vellore Institute of Technology, Vellore. I am interested in Development and always ready to contribute to a project that could help solve a problem. Quick learner, Proactive, Problem Solver, Tech enthusiast.</h5>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">
 
