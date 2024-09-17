@@ -1,9 +1,9 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]-->
 <h1 align="center"> Hi 👋, I'm Yash</h1>
-<h4 align="center">I am a student, currently studying at Vishwakarma Institute of Information Technology, pune (B-Tech 2023). I am interested in Development and always ready to contribute to a project that could help solve a problem. Quick learner, Proactive, Problem Solver, Tech enthusiast.</h4>
+<h4>I am a student, currently studying at Vellore Institute of Technology, Vellore. I am interested in Development and always ready to contribute to a project that could help solve a problem. Quick learner, Proactive, Problem Solver, Tech enthusiast.</h4>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaxh8074&label=Profile%20views&color=0e75b6&style=flat" alt="yaxh8074" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaxh8074&label=Profile%20views&color=0e75b6&style=flat" alt="yaxh8074" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
