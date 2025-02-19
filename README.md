@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, AI/ML, DSA and Going through NAND2TETRIS Course**
+- 🌱 I’m currently learning **Web Development, AI/ML, DSA and GenAI**
 
 - 📝 Sometimes I write articles on [https://medium.com/@Yaxh8074](https://medium.com/@Yaxh8074)
 
